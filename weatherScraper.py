@@ -28,5 +28,5 @@ weatherData = pd.DataFrame(
     })
 
 #UNCOMMENT BELOW LINES TO DISPLAY THE DATA AND SAVE TO A FILE
-print(weatherData)
+#print(weatherData)
 #weatherData.to_csv('weatherdata.csv')
